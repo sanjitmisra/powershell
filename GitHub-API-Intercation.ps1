@@ -1,4 +1,4 @@
-﻿$Token = 'sanjitmisra:9b920436afce05f36b7c079ee13b22ef25f9b52a'
+﻿$Token = 'sanjitmisra:'
 $Base64Token = [System.Convert]::ToBase64String([char[]]$Token);
 
 $Headers = @{
